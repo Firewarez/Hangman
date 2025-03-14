@@ -1,0 +1,13 @@
+
+ll 0
+
+lucas 80
+ maquina 20
+test 100
+ maquina 100
+a 100
+ maquina 100
+test4 0
+ maquina 0
+luv 0
+ maquina 0
